@@ -42,7 +42,7 @@ pom.xml                      # Maven dependencies
 
 ## Test Result
 
-![Test Result](screenshots/test-result.png)
+![Test Result](/test-result.png)
 
 ## Author
 
